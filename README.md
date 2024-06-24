@@ -3,7 +3,7 @@
 
 Este projeto é um sistema de gestão para um e-commerce de produtos de skin care, desenvolvido em Java utilizando Swing para a interface gráfica. Ele permite aos usuários visualizar produtos, gerenciar um carrinho de compras, registrar clientes e finalizar compras.
 
-<img src ="https://github.com/RenataGabrielle/TrabalhoFinal-LP_POO/assets/163059025/27ed2e99-006f-40df-80ac-5488920c6a00" >
+<img src ="https://github.com/RenataGabrielle/TrabalhoFinal_LP-POO/assets/163059025/89c7cdf2-1d13-4459-a487-746ebb45ee1c" >
 
 
 ## Estrutura do Projeto
@@ -103,7 +103,7 @@ public class DatabaseConnection {
 
 ## Exemplo de Diagrama de Classe
 
-<img src="https://github.com/RenataGabrielle/IsaeRenata/assets/163059025/149c1506-6e10-4f85-940b-641f84cd96f3"> 
+<img src="https://github.com/RenataGabrielle/TrabalhoFinal_LP-POO/assets/163059025/dc02132d-efcb-4ac7-ae36-5c39bef54c17"> 
 
 ## Contribuição
 
